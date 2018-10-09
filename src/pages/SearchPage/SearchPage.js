@@ -2,7 +2,7 @@ import React from "react";
 import "./SearchPage.css";
 import Search from "../../components/Search";
 import Results from "../../components/Results";
-import API from "../../utils/API.js";
+import API from "../../utils/API";
 
 class SearchPage extends React.Component {
 
